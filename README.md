@@ -4,6 +4,7 @@ These are a few of the components I saw on [W3C School](https://www.w3schools.co
 
 (More information about [SvelteJS](https://svelte.dev).)
 
+![gfx.monster](https://github.com/cgdougm/gfx-monster/blob/main/docs/gfxmonster.1.png)
 
 ## Motivation
 
